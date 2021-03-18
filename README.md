@@ -8,11 +8,11 @@
 
 ### Расчет нагрузки
 
-* Аудитория: 7 миллионов человек ([аудитория Facebook Messenger в 2020 году]([Аудитория Telegram в России за месяц выросла на 1,2 млн пользователей](https://www.dp.ru/a/2020/10/17/Auditorija_Telegram_v_Ross)))
+* Аудитория: 7 миллионов человек ([аудитория Facebook Messenger в 2020 году](https://www.dp.ru/a/2020/10/17/Auditorija_Telegram_v_Ross))
 
 * География пользователей: РФ
 
-* Среднее кол-во сообщений в день на одного пользователя: [150]([50+ Telegram Statistics That Will Blow Your Mind (2021)](https://bloggingx.com/telegram-statistics/#:~:text=Telegram%20user%20and%20usage%20statistics&text=It%20is%20estimated%20that%20around,sent%20daily%20per%20Telegram%20user.))
+* Среднее кол-во сообщений в день на одного пользователя: [150](https://bloggingx.com/telegram-statistics/#:~:text=Telegram%20user%20and%20usage%20statistics&text=It%20is%20estimated%20that%20around,sent%20daily%20per%20Telegram%20user.)
 
 * Средняя длительность сессии: [12 минут](https://www.likeni.ru/events/whatsapp-samyy-populyarnyy-messendzher-u-abonentov-bilayna/)
 
