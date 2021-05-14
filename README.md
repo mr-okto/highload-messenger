@@ -6,11 +6,17 @@
 
 Функционал MVP: отправка и получение текстовых сообщений, которые сохраняются на сервере в открытом виде. 
 
+#### Целевая аудитория
+
+* Возраст: 18-40 лет
+
+* География: РФ
+
+* Аудитория: 7 млн человек
+
 ### Расчет нагрузки
 
-* Аудитория: 7 миллионов человек ([аудитория Facebook Messenger в 2020 году](https://www.dp.ru/a/2020/10/17/Auditorija_Telegram_v_Ross))
-
-* География пользователей: РФ
+* Кол-во пользователей: 7 миллионов человек ([аудитория Facebook Messenger в 2020 году](https://www.dp.ru/a/2020/10/17/Auditorija_Telegram_v_Ross))
 
 * Среднее кол-во сообщений в день на одного пользователя: [150](https://bloggingx.com/telegram-statistics/#:~:text=Telegram%20user%20and%20usage%20statistics&text=It%20is%20estimated%20that%20around,sent%20daily%20per%20Telegram%20user.)
 
